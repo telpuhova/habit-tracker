@@ -22,10 +22,6 @@ $ git clone https://github.com/telpuhova/habit-tracker.git
 * set up a virtual android device (or connect your phone)
 * run the application
 
-## Known Bugs
-
-No known issues.
-
 ## Support and contact details
 
 If you have any issues or have questions, ideas or concerns please email telpuhova@gmail.com or contribute to the code
